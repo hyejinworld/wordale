@@ -1,0 +1,31 @@
+header {
+    margin-top: 10px;
+    border-bottom: 1px solid #ededef;
+    align-items: center;
+    padding-bottom: 10px;
+  }
+
+  .header-column {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 10px 0 10px;
+}
+
+.header-column img{
+    width: 2opx;
+}
+
+.header-icon {
+  
+    width: 20px;
+    height: 2opx;
+  
+  }
+
+  .header-icon img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 20px;
+    height: 2opx;
+  }
